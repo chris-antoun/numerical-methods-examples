@@ -1,5 +1,5 @@
 # numerical-methods-examples
-This repository includes some numerical methods for integral approximation, ODEs, and function approximation. This is part of the MAT3110 course at UiO.
+This repository includes some numerical methods for polynomial interpolation, integral approximation, function approximation, ODEs and nonlinear PDEs. This is part of the MAT3110 (Introduction to Numerical Analysis) course at UiO, in addition to MAT4380 (Nonlinear Partial Differential Equations)
 The methods in this repository are written in MATLAB and include:
 1. Lagrange's polynomial interpolation
 2. Monte Carlo's method for approximating integrals
